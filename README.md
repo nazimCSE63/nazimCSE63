@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Md Nazim Uddin
+- 👀 I’m interested in Software Development and Teaching.
+- 🌱 I’m currently working by using C#, ASP.NET Core, MSSQL
+- 📫 nazimcse63@gmail.com
 
 <!--
 **nazimCSE63/nazimCSE63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
